@@ -1,3 +1,4 @@
+// https://codility.com/demo/results/trainingWD7WT4-HP9/
 // you can write to stdout for debugging purposes, e.g.
 // console.log('this is a debug message');
 
